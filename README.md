@@ -81,19 +81,21 @@ text
 ## 🚀 Local Preview (No Build Required)
 
 bash
-git clone https://github.com/lilking2007/Personal-website-profile.git
-cd Personal-website-profile
-open index.html  # Mac / Linux
-# or
-start index.html  # Windows
+- git clone https://github.com/lilking2007/Personal-website-profile.git
+- cd Personal-website-profile
+- open index.html  # Mac / Linux
+or
+- start index.html  # Windows
+
 Pure HTML/CSS/JS – instant preview, no build tools needed.
 
-📱 Fully Responsive Design
-text
-💻 Desktop:    Full project showcase + architecture diagrams
-📱 Tablet:     Compact portfolio cards + key highlights  
-📱 Mobile:     Clean single-column experience
-🎓 About Ryan Kipchumba
+#📱 Fully Responsive Design
+
+- 💻 Desktop:    Full project showcase + architecture diagrams
+- 📱 Tablet:     Compact portfolio cards + key highlights  
+- 📱 Mobile:     Clean single-column experience
+
+#🎓 About Ryan Kipchumba
 Sydney-based cybersecurity builder transitioning from self-taught enthusiast → professional SOC analyst.
 
 Daily Work:
