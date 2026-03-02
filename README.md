@@ -2,7 +2,6 @@
 
 🔗 **Live Website:**  
 👉 https://lilking2007.github.io/Personal-website-profile/
-![Uploading image.png…]()
 
 ---
 
