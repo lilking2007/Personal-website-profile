@@ -3,6 +3,10 @@
 🔗 **Live Website:**  
 👉 https://lilking2007.github.io/Personal-website-profile/
 
+<p align="center">
+<img width="1898" height="944" alt="image" src="https://github.com/user-attachments/assets/b56e7fd0-81a1-483b-978c-095eb1978705">
+</p>
+
 ---
 
 ## 🛡 About This Portfolio
